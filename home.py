@@ -83,7 +83,7 @@ col1, col2 = st.columns(2)
 with col1:
    #st.header("[RWE](%s)" % url_rwe)
    st.header("RWE")
-   st.markdown("[![Foo](https://media-exp1.licdn.com/dms/image/C4D0BAQHcUAokOSCKEg/company-logo_200_200/0/1569830150461?e=1678320000&v=beta&t=wkDnvFshAFE6-aDdqm3xoAjnb32JwfrHhiY1unvjWnQ)](https://storymachinedata-linkedinmonitor-rwe-linkedin-monitor-vavdv8.streamlit.app/)")
+   st.markdown("[![Foo](https://media-exp1.licdn.com/dms/image/C4D0BAQHcUAokOSCKEg/company-logo_200_200/0/1569830150461?e=1678320000&v=beta&t=wkDnvFshAFE6-aDdqm3xoAjnb32JwfrHhiY1unvjWnQ)](https://storymachinedata-linkedinmonitor-rwe-andereceos-mb4bf4.streamlit.app/)")
 
 with col2:
    st.header("DOBNER")
