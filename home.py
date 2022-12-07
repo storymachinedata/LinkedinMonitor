@@ -87,5 +87,5 @@ with col1:
 
 with col2:
    st.header("DOBNER")
-   st.markdown("[![Foo](https://media-exp1.licdn.com/dms/image/C560BAQFBl5k-bIrCvg/company-logo_200_200/0/1550337518830?e=1678320000&v=beta&t=_wF6uNGemXDwDdwlATUmDDPDMaWX7E3Ilykq_bHWtz4)](https://storymachinedata-linkedinmonitor-rwe-linkedin-monitor-vavdv8.streamlit.app/)")
+   st.markdown("[![Foo](https://media-exp1.licdn.com/dms/image/C560BAQFBl5k-bIrCvg/company-logo_200_200/0/1550337518830?e=1678320000&v=beta&t=_wF6uNGemXDwDdwlATUmDDPDMaWX7E3Ilykq_bHWtz4)](https://storymachinedata-linkedinmonito-linkedin-keyword-monitor-8iidyr.streamlit.app/)")
 
