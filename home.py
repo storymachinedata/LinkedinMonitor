@@ -78,7 +78,7 @@ st.header('')
 
 #url_rwe= 'https://storymachinedata-linkedinmonitor-rwe-linkedin-monitor-vavdv8.streamlit.app/'
 
-col1, col2, col3 = st.columns(3)
+col1, col2, col3, col4 = st.columns(4)
 
 with col1:
    #st.header("[RWE](%s)" % url_rwe)
@@ -92,3 +92,9 @@ with col2:
 with col3:
    st.header("Lutzerath")
    st.markdown("[![Foo](https://www.autoservice-ewen.de/images/Logos/Ortsschild-Lutzerath-250.gif)](https://storymachinedata-lutzerath-lutzerath-mentions-i0cjd6.streamlit.app/)")
+
+
+
+with col4:
+   st.header("Palantir")
+   st.markdown("[![Foo](https://diginomica.com/sites/default/files/styles/article_images_desktop/public/images/2022-02/Screenshot%202022-02-22%20at%2011.31.18_0.png?itok=fgIjzBrQ)](https://storymachinedata-palantir-dash-main-i14y5q.streamlit.app/)")
