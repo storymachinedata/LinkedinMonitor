@@ -97,4 +97,4 @@ with col3:
 
 with col4:
    st.header("Palantir")
-   st.markdown("[![Foo](https://diginomica.com/sites/default/files/styles/article_images_desktop/public/images/2022-02/Screenshot%202022-02-22%20at%2011.31.18_0.png?itok=fgIjzBrQ)](https://storymachinedata-palantir-dash-main-i14y5q.streamlit.app/)")
+   st.markdown("[![Foo](https://ih1.redbubble.net/image.2259243696.4263/st,small,207x207-pad,200x200,f8f8f8.jpg)](https://storymachinedata-palantir-dash-main-i14y5q.streamlit.app/)")
