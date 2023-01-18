@@ -36,33 +36,7 @@ with col2:
    
    st.header("Data Team Dashboard")
 
-#st.sidebar.success("Choose Category")
 
-
-
-# # 2. horizontal menu
-# selected2 = option_menu(None, ["CEOs Outreach", "Individual CEO Analysis", "Sentiment Analysis", 'Keyword Monitor'], 
-#     icons=['graph-up-arrow', 'bar-chart', "emoji-smile", 'search'], 
-#     menu_icon="cast", default_index=0, orientation="horizontal")
-
-# url = "https://share.streamlit.io/mesmith027/streamlit_webapps/main/MC_pi/streamlit_app.py"
-
-
-
-
-# if selected2 == 'Individual CEO Analysis':
-#     st.title("you are dumb")
-    
-    #st.write("check out this [link](%s)" % url)
-    #st.markdown("[![Foo](https://www.designtagebuch.de/wp-content/uploads/mediathek//2019/10/rwe-logo-2019.jpg)](https://loyidandrews-linkedinmonitoring2-linkedin-monitoring-app-cb4u9m.streamlit.app/)")
-    
-
-#st.markdown("check out this [link](%s)" % url)
-
-# st.image(
-#     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png",
-#     width=100,
-# )
 st.header('')
 st.title('WELCOME to LinkedIn Monitoring Dashboard')
 
@@ -73,7 +47,7 @@ for percent_complete in range(100):
      my_bar.progress(percent_complete + 1)
 
 st.header('')
-st.header('Choose your Project to start Monitoring')
+st.header('Choose your Project to Start Monitoring')
 st.header('')
 
 #url_rwe= 'https://storymachinedata-linkedinmonitor-rwe-linkedin-monitor-vavdv8.streamlit.app/'
