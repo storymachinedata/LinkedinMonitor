@@ -52,7 +52,7 @@ st.header('')
 
 #url_rwe= 'https://storymachinedata-linkedinmonitor-rwe-linkedin-monitor-vavdv8.streamlit.app/'
 
-col1, col2, col3, col4 = st.columns(4)
+col1, col2, col3, col4,col5 = st.columns(5)
 
 with col1:
    #st.header("[RWE](%s)" % url_rwe)
@@ -72,3 +72,8 @@ with col3:
 with col4:
    st.header("Palantir")
    st.markdown("[![Foo](https://ih1.redbubble.net/image.2259243696.4263/st,small,207x207-pad,200x200,f8f8f8.jpg)](https://storymachinedata-palantir-dash-main-i14y5q.streamlit.app/)")
+
+
+with col5:
+   st.header("Niko Warbanoff")
+   st.markdown("[![Foo](https://img.swapcard.com/?u=https%3A%2F%2Fcdn-api.swapcard.com%2Fpublic%2Fimages%2Fd2eef7c4b1a14a7d9972d5490b27fa8d.jpeg&q=0.8&m=fit&w=400&h=200)](https://storymachinedata-nikowarbanoff-linkedin-keyword-monitor-xl9e8l.streamlit.app/)")
