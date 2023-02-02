@@ -30,7 +30,7 @@ col1,col2= st.columns(2)
 
 with col1:
    #st.header("A cat")
-   st.image("https://storymachine.mocoapp.com/objects/accounts/a201d12e-6005-447a-b7d4-a647e88e2a4a/logo/b562c681943219ea.png", width=200)
+   st.image("https://www.storymachine.de/assets2/img/storymachine.png", width=200)
    
 with col2:
    
