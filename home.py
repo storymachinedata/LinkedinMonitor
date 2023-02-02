@@ -52,7 +52,8 @@ st.header('')
 
 #url_rwe= 'https://storymachinedata-linkedinmonitor-rwe-linkedin-monitor-vavdv8.streamlit.app/'
 
-col1, col2, col3, col4,col5 = st.columns(5)
+col1, col2, col3 = st.columns(3)
+col4,col5,col6  = st.columns(3)
 
 with col1:
    #st.header("[RWE](%s)" % url_rwe)
@@ -77,3 +78,8 @@ with col4:
 with col5:
    st.header("Niko Warbanoff")
    st.markdown("[![Foo](https://img.swapcard.com/?u=https%3A%2F%2Fcdn-api.swapcard.com%2Fpublic%2Fimages%2Fd2eef7c4b1a14a7d9972d5490b27fa8d.jpeg&q=0.8&m=fit&w=400&h=200)](https://storymachinedata-nikowarbanoff-linkedin-keyword-monitor-xl9e8l.streamlit.app/)")
+
+
+with col6:
+   st.header("Goldbeck")
+   st.markdown("[![Foo](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vujochtfl55m7mvsrvdd)](https://storymachinedata-goldbeck-linkedin-keyword-monitor-8xqh3w.streamlit.app/)")
