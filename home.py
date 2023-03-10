@@ -30,39 +30,13 @@ col1,col2= st.columns(2)
 
 with col1:
    #st.header("A cat")
-   st.image("https://storymachine.mocoapp.com/objects/accounts/a201d12e-6005-447a-b7d4-a647e88e2a4a/logo/b562c681943219ea.png", width=200)
+   st.image("https://www.storymachine.de/assets2/img/storymachine.png", width=200)
    
 with col2:
    
    st.header("Data Team Dashboard")
 
-#st.sidebar.success("Choose Category")
 
-
-
-# # 2. horizontal menu
-# selected2 = option_menu(None, ["CEOs Outreach", "Individual CEO Analysis", "Sentiment Analysis", 'Keyword Monitor'], 
-#     icons=['graph-up-arrow', 'bar-chart', "emoji-smile", 'search'], 
-#     menu_icon="cast", default_index=0, orientation="horizontal")
-
-# url = "https://share.streamlit.io/mesmith027/streamlit_webapps/main/MC_pi/streamlit_app.py"
-
-
-
-
-# if selected2 == 'Individual CEO Analysis':
-#     st.title("you are dumb")
-    
-    #st.write("check out this [link](%s)" % url)
-    #st.markdown("[![Foo](https://www.designtagebuch.de/wp-content/uploads/mediathek//2019/10/rwe-logo-2019.jpg)](https://loyidandrews-linkedinmonitoring2-linkedin-monitoring-app-cb4u9m.streamlit.app/)")
-    
-
-#st.markdown("check out this [link](%s)" % url)
-
-# st.image(
-#     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png",
-#     width=100,
-# )
 st.header('')
 st.title('WELCOME to LinkedIn Monitoring Dashboard')
 
@@ -73,12 +47,13 @@ for percent_complete in range(100):
      my_bar.progress(percent_complete + 1)
 
 st.header('')
-st.header('Choose your Project to start Monitoring')
+st.header('Choose your Project to Start Monitoring')
 st.header('')
 
 #url_rwe= 'https://storymachinedata-linkedinmonitor-rwe-linkedin-monitor-vavdv8.streamlit.app/'
 
-col1, col2, col3, col4 = st.columns(4)
+col1, col2, col3 = st.columns(3)
+col4,col5,col6  = st.columns(3)
 
 with col1:
    #st.header("[RWE](%s)" % url_rwe)
@@ -98,3 +73,13 @@ with col3:
 with col4:
    st.header("Palantir")
    st.markdown("[![Foo](https://ih1.redbubble.net/image.2259243696.4263/st,small,207x207-pad,200x200,f8f8f8.jpg)](https://storymachinedata-palantir-dash-main-i14y5q.streamlit.app/)")
+
+
+with col5:
+   st.header("Niko Warbanoff")
+   st.markdown("[![Foo](https://img.swapcard.com/?u=https%3A%2F%2Fcdn-api.swapcard.com%2Fpublic%2Fimages%2Fd2eef7c4b1a14a7d9972d5490b27fa8d.jpeg&q=0.8&m=fit&w=400&h=200)](https://storymachinedata-nikowarbanoff-linkedin-keyword-monitor-xl9e8l.streamlit.app/)")
+
+
+with col6:
+   st.header("Goldbeck")
+   st.markdown("[![Foo](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vujochtfl55m7mvsrvdd)](https://storymachinedata-goldbeck-linkedin-keyword-monitor-8xqh3w.streamlit.app/)")
