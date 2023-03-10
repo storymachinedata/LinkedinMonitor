@@ -62,7 +62,7 @@ with col1:
 
 with col2:
    st.header("DOBNER")
-   st.markdown("[![Foo](https://media-exp1.licdn.com/dms/image/C560BAQFBl5k-bIrCvg/company-logo_200_200/0/1550337518830?e=1678320000&v=beta&t=_wF6uNGemXDwDdwlATUmDDPDMaWX7E3Ilykq_bHWtz4)](https://storymachinedata-linkedinmonito-linkedin-keyword-monitor-8iidyr.streamlit.app/)")
+   st.markdown("[![Foo](https://media.licdn.com/dms/image/C560BAQFBl5k-bIrCvg/company-logo_200_200/0/1550337518830?e=1686787200&v=beta&t=W3QSd4a6MzBgPPOctix7KZREWjtdP99rAKCsoaeJZvc)](https://storymachinedata-linkedinmonito-linkedin-keyword-monitor-8iidyr.streamlit.app/)")
 
 with col3:
    st.header("Lutzerath")
