@@ -65,8 +65,8 @@ with col2:
    st.markdown("[![Foo](https://media.licdn.com/dms/image/C560BAQFBl5k-bIrCvg/company-logo_200_200/0/1550337518830?e=1686787200&v=beta&t=W3QSd4a6MzBgPPOctix7KZREWjtdP99rAKCsoaeJZvc)](https://storymachinedata-linkedinmonito-linkedin-keyword-monitor-8iidyr.streamlit.app/)")
 
 with col3:
-   st.header("Lutzerath")
-   st.markdown("[![Foo](https://www.autoservice-ewen.de/images/Logos/Ortsschild-Lutzerath-250.gif)](https://storymachinedata-lutzerath-lutzerath-mentions-i0cjd6.streamlit.app/)")
+   st.header("MUTARES")
+   st.markdown("[![Foo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MUTARES.png/640px-MUTARES.png)](https://storymachinedata-mutares-linkedin-mutares-linkedin-posts-gangz0.streamlit.app/)")
 
 
 
