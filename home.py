@@ -66,7 +66,7 @@ with col2:
 
 with col3:
    st.header("MUTARES")
-   st.markdown("[![Foo](https://www.4investors.de/bilder480/medienpool/unternehmen/mutares/mutares-schriftzug.jpg)](https://storymachinedata-mutares-linkedin-mutares-linkedin-posts-gangz0.streamlit.app/)")
+   st.markdown("[![Foo](https://aktienfinder.net/assets/a4fd53f390a8429d903fa8f7c05c1c46.webp)](https://storymachinedata-mutares-linkedin-mutares-linkedin-posts-gangz0.streamlit.app/)")
 
 
 
