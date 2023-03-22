@@ -66,7 +66,7 @@ with col2:
 
 with col3:
    st.header("MUTARES")
-   st.markdown("[![Foo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MUTARES.png/640px-MUTARES.png)](https://storymachinedata-mutares-linkedin-mutares-linkedin-posts-gangz0.streamlit.app/)")
+   st.markdown("[![Foo](https://www.4investors.de/bilder480/medienpool/unternehmen/mutares/mutares-schriftzug.jpg)](https://storymachinedata-mutares-linkedin-mutares-linkedin-posts-gangz0.streamlit.app/)")
 
 
 
