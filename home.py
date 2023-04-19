@@ -57,7 +57,7 @@ col4,col5,col6  = st.columns(3)
 
 with col1:
    st.markdown("<div style='text-align: center; font-weight: bold; font-size: 32px;'>RWE</div>", unsafe_allow_html=True)
-   st.markdown("<div style='text-align: center;'><a href='https://storymachinedata-linkedinmonitor-rwe-andereceos-mb4bf4.streamlit.app/' target='_blank'><img src='https://www.designtagebuch.de/wp-content/uploads/mediathek//2019/10/rwe-logo-2019.jpg'  width='330'/></a></div>", unsafe_allow_html=True)
+   st.markdown("<div style='text-align: center;'><a href='https://storymachinedata-linkedinmonitor-rwe-andereceos-mb4bf4.streamlit.app/' target='_blank'><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxamGiLbLjQKWmaSTz38KxQkCroD3FFj-Lg2WxNgYf&s'  width='330'/></a></div>", unsafe_allow_html=True)
 
 
 with col2:
