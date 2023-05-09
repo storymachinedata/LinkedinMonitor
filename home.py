@@ -93,3 +93,8 @@ with col6:
 with col7:
    st.markdown("<div style='text-align: center; font-weight: bold; font-size: 32px;'>FOM Real Estate</div>", unsafe_allow_html=True)
    st.markdown("<div style='text-align: center;'><a href='https://storymachinedata-fom-rea-fom-keyword-monitoring-linkedin-dtdl91.streamlit.app/' target='_blank'><img src='https://www.fomrealestate.de/download_file/view/2/0' width='330'/></a></div>", unsafe_allow_html=True)
+    
+with col8:
+    
+with col9:
+
