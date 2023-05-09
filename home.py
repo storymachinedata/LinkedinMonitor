@@ -55,6 +55,9 @@ st.header('')
 col1, col2, col3 = st.columns(3)
 col4,col5,col6  = st.columns(3)
 
+col7  = st.columns(3)
+
+
 with col1:
    st.markdown("<div style='text-align: center; font-weight: bold; font-size: 32px;'>RWE</div>", unsafe_allow_html=True)
    st.markdown("<div style='text-align: center;'><a href='https://storymachinedata-linkedinmonitor-rwe-andereceos-mb4bf4.streamlit.app/' target='_blank'><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxamGiLbLjQKWmaSTz38KxQkCroD3FFj-Lg2WxNgYf&s'  width='330'/></a></div>", unsafe_allow_html=True)
@@ -86,3 +89,7 @@ with col6:
    st.markdown("<div style='text-align: center; font-weight: bold; font-size: 32px;'>GOLDBECK</div>", unsafe_allow_html=True)
    st.markdown("<div style='text-align: center;'><a href='https://storymachinedata-goldbeck-linkedin-keyword-monitor-8xqh3w.streamlit.app/' target='_blank'><img src='https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vujochtfl55m7mvsrvdd' width='330'/></a></div>", unsafe_allow_html=True)
 
+    
+with col7:
+   st.markdown("<div style='text-align: center; font-weight: bold; font-size: 32px;'>FOM Real Estate</div>", unsafe_allow_html=True)
+   st.markdown("<div style='text-align: center;'><a href='https://storymachinedata-fom-rea-fom-keyword-monitoring-linkedin-dtdl91.streamlit.app/' target='_blank'><img src='https://www.fomrealestate.de/download_file/view/2/0' width='330'/></a></div>", unsafe_allow_html=True)
