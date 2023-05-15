@@ -82,7 +82,7 @@ with col4:
 
 with col5:
    st.markdown("<div style='text-align: center; font-weight: bold; font-size: 32px;'>NIKO WARBANOFF</div>", unsafe_allow_html=True)
-   st.markdown("<div style='text-align: center;'><a href='https://storymachinedata-nikowarbanoff-linkedin-keyword-monitor-xl9e8l.streamlit.app/' target='_blank'><img src='https://img.swapcard.com/?u=https%3A%2F%2Fcdn-api.swapcard.com%2Fpublic%2Fimages%2Fd2eef7c4b1a14a7d9972d5490b27fa8d.jpeg&q=0.8&m=fit&w=400&h=200'  width='330'/></a></div>", unsafe_allow_html=True)
+   st.markdown("<div style='text-align: center;'><a href='https://storymachinedata-nikowarbanoff-linkedin-keyword-monitor-zzeog9.streamlit.app/' target='_blank'><img src='https://img.swapcard.com/?u=https%3A%2F%2Fcdn-api.swapcard.com%2Fpublic%2Fimages%2Fd2eef7c4b1a14a7d9972d5490b27fa8d.jpeg&q=0.8&m=fit&w=400&h=200'  width='330'/></a></div>", unsafe_allow_html=True)
 
 
 with col6:
