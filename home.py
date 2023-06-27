@@ -99,6 +99,7 @@ with col8:
    st.markdown("<div style='text-align: center;'><a href='https://pjkeywords-n6nsrr9s7w.streamlit.app/' target='_blank'><img src='https://images.creativebase.com/_next/image?url=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fzone.busch.store.image%2F85b7b0cc4d4eb15bf1b505fd6cb4c3fb358c2c7829f730f7b349458d0a85f9a8.jpg&w=3840&q=100' width='330'/></a></div>", unsafe_allow_html=True)
     
 with col9:
-    st.write('')
+   st.markdown("<div style='text-align: center; font-weight: bold; font-size: 32px;'>Salzgitter</div>", unsafe_allow_html=True)
+   st.markdown("<div style='text-align: center;'><a href='https://salzgitter-ylvy8aqyozc.streamlit.app/' target='_blank'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Salzgitter_AG_Logo.svg/1598px-Salzgitter_AG_Logo.svg.png' width='330'/></a></div>", unsafe_allow_html=True)
 
 
