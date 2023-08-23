@@ -100,6 +100,6 @@ with col8:
     
 with col9:
    st.markdown("<div style='text-align: center; font-weight: bold; font-size: 32px;'>Salzgitter</div>", unsafe_allow_html=True)
-   st.markdown("<div style='text-align: center;'><a href='https://salzgitter-ylvy8aqyozc.streamlit.app/' target='_blank'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Salzgitter_AG_Logo.svg/1598px-Salzgitter_AG_Logo.svg.png' width='330'/></a></div>", unsafe_allow_html=True)
+   st.markdown("<div style='text-align: center;'><a href='https://salzgitter-nzwlhv7i9gztyqvytknyqf.streamlit.app/' target='_blank'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Salzgitter_AG_Logo.svg/1598px-Salzgitter_AG_Logo.svg.png' width='330'/></a></div>", unsafe_allow_html=True)
 
 
